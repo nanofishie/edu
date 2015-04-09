@@ -1,0 +1,1 @@
+c:\users\nanofishie\documents\visual studio 2013\Projects\VisualCSharpBook\01\TestHello\TestHello\bin\Debug\TestHello.exe.config
